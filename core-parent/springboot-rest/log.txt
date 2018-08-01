@@ -1,0 +1,206 @@
+[2018-07-30 18:43:54] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:54] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:54] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:54] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:55] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:56] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:56] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:56] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:56] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:56] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:56] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:56] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:56] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:43:59] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:16] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:16] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:16] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:16] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:17] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:45:19] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:42] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:42] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:42] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:42] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:43] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:45] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 127.0.0.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:49] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-30 18:47:52] [WARN ] -  [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-31 09:49:04] [WARN ] -  [DUBBO] client reconnect to 192.168.56.1:20884 find error . url: dubbo://192.168.56.1:20884/com.biyouche.service.FindActivityService?anyhost=true&application=biyoucheConsume&check=false&codec=dubbo&dubbo=2.4.10&heartbeat=60000&interface=com.biyouche.service.FindActivityService&methods=activityDetail,toJoinActivity,joinActivity,activityList&pid=5404&retries=0&side=consumer&timeout=6000&timestamp=1533000170546, dubbo version: 2.4.10, current host: 192.168.56.1
+com.alibaba.dubbo.remoting.RemotingException: client(url: dubbo://192.168.56.1:20884/com.biyouche.service.FindActivityService?anyhost=true&application=biyoucheConsume&check=false&codec=dubbo&dubbo=2.4.10&heartbeat=60000&interface=com.biyouche.service.FindActivityService&methods=activityDetail,toJoinActivity,joinActivity,activityList&pid=5404&retries=0&side=consumer&timeout=6000&timestamp=1533000170546) failed to connect to server /192.168.56.1:20884, error message is:Connection refused: no further information
+	at com.alibaba.dubbo.remoting.transport.netty.NettyClient.doConnect(NettyClient.java:123)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:280)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient$1.run(AbstractClient.java:145)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink$Boss.connect(NioClientSocketPipelineSink.java:384)
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink$Boss.processSelectedKeys(NioClientSocketPipelineSink.java:354)
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink$Boss.run(NioClientSocketPipelineSink.java:276)
+	... 3 more
+[2018-07-31 11:16:17] [WARN ] -  [DUBBO] client reconnect to 192.168.56.1:20884 find error . url: dubbo://192.168.56.1:20884/com.biyouche.service.FindActivityService?anyhost=true&application=biyoucheConsume&check=false&codec=dubbo&dubbo=2.4.10&heartbeat=60000&interface=com.biyouche.service.FindActivityService&methods=activityDetail,toJoinActivity,activityList,joinActivity&pid=8552&retries=0&side=consumer&timeout=6000&timestamp=1533003354496, dubbo version: 2.4.10, current host: 192.168.56.1
+com.alibaba.dubbo.remoting.RemotingException: client(url: dubbo://192.168.56.1:20884/com.biyouche.service.FindActivityService?anyhost=true&application=biyoucheConsume&check=false&codec=dubbo&dubbo=2.4.10&heartbeat=60000&interface=com.biyouche.service.FindActivityService&methods=activityDetail,toJoinActivity,activityList,joinActivity&pid=8552&retries=0&side=consumer&timeout=6000&timestamp=1533003354496) failed to connect to server /192.168.56.1:20884, error message is:Connection refused: no further information
+	at com.alibaba.dubbo.remoting.transport.netty.NettyClient.doConnect(NettyClient.java:123)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:280)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient$1.run(AbstractClient.java:145)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink$Boss.connect(NioClientSocketPipelineSink.java:384)
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink$Boss.processSelectedKeys(NioClientSocketPipelineSink.java:354)
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink$Boss.run(NioClientSocketPipelineSink.java:276)
+	... 3 more
+[2018-07-31 15:44:25] [WARN ] -  [DUBBO] The timeout response finally returned at 2018-07-31 15:44:25.869, response Response [id=18, version=null, status=20, event=false, error=null, result=RpcResult [result=null, exception=null]], channel: /192.168.56.1:60433 -> /192.168.56.1:20884, dubbo version: 2.4.10, current host: 192.168.56.1
+[2018-07-31 16:09:43] [WARN ] -  [DUBBO] client reconnect to 192.168.56.1:20884 find error . url: dubbo://192.168.56.1:20884/com.biyouche.service.FindActivityService?anyhost=true&application=biyoucheConsume&check=false&codec=dubbo&dubbo=2.4.10&heartbeat=60000&interface=com.biyouche.service.FindActivityService&methods=activityDetail,toJoinActivity,activityList,joinActivity&pid=11156&retries=0&side=consumer&timeout=6000&timestamp=1533021446804, dubbo version: 2.4.10, current host: 192.168.56.1
+com.alibaba.dubbo.remoting.RemotingException: client(url: dubbo://192.168.56.1:20884/com.biyouche.service.FindActivityService?anyhost=true&application=biyoucheConsume&check=false&codec=dubbo&dubbo=2.4.10&heartbeat=60000&interface=com.biyouche.service.FindActivityService&methods=activityDetail,toJoinActivity,activityList,joinActivity&pid=11156&retries=0&side=consumer&timeout=6000&timestamp=1533021446804) failed to connect to server /192.168.56.1:20884, error message is:Connection refused: no further information
+	at com.alibaba.dubbo.remoting.transport.netty.NettyClient.doConnect(NettyClient.java:123)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:280)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient$1.run(AbstractClient.java:145)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink$Boss.connect(NioClientSocketPipelineSink.java:384)
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink$Boss.processSelectedKeys(NioClientSocketPipelineSink.java:354)
+	at org.jboss.netty.channel.socket.nio.NioClientSocketPipelineSink$Boss.run(NioClientSocketPipelineSink.java:276)
+	... 3 more

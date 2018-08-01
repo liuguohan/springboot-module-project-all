@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://code.alibabatech.com/schema/dubbo
+	http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!-- 提供方应用信息，用于计算依赖关系 -->
+    <dubbo:application name="${dubbo.application.name}"/>
+
+    <!-- 注册中心暴露服务地址 -->
+    <dubbo:registry protocol="${dubbo.registry.protocol}"
+                    address="${dubbo.registry.address}"/>
+
+    <!--<dubbo:reference id="blogService" interface="com.biyouche.service.BlogService"/>-->
+    <dubbo:reference id="userService" interface="com.biyouche.service.UserService"/>
+    <dubbo:reference id="applyService" interface="com.biyouche.service.ApplyService"/>
+    <dubbo:reference id="areaService" interface="com.biyouche.service.area.AreaService"/>
+    <dubbo:reference id="coachService" interface="com.biyouche.service.CoachService"/>
+    <dubbo:reference id="classService" interface="com.biyouche.service.ClassService"/>
+    <dubbo:reference id="introductionService" interface="com.biyouche.service.IntroductionService"/>
+    <dubbo:reference id="needsService" interface="com.biyouche.service.NeedsService"/>
+    <dubbo:reference id="schoolService" interface="com.biyouche.service.SchoolService"/>
+    <dubbo:reference id="placeService" interface="com.biyouche.service.PlaceService"/>
+    <dubbo:reference id="indexService" interface="com.biyouche.service.IndexService" />
+    <dubbo:reference id="loanService" interface="com.biyouche.service.LoanService"/>
+    <dubbo:reference id="praiseService" interface="com.biyouche.service.PraiseService"/>
+    <dubbo:reference id="insuranceOrderService" interface="com.biyouche.service.InsuranceOrderService"/>
+    <dubbo:reference id="vipInsuranceService" interface="com.biyouche.service.VIPInsuranceService"/>
+    <dubbo:reference id="videoService" interface="com.biyouche.service.VideoService"/>
+    <dubbo:reference id="notbokService" interface="com.biyouche.service.NotbokService"/>
+    <dubbo:reference id="commentService" interface="com.biyouche.service.CommentService"/>
+    <dubbo:reference id="notbookAfterService" interface="com.biyouche.service.NotbookAfterService"/>
+    <dubbo:reference id="driveSecretService" interface="com.biyouche.service.DriveSecretService"/>
+    <dubbo:reference id="subjectService" interface="com.biyouche.service.SubjectService"/>
+    <dubbo:reference id="driveSkillService" interface="com.biyouche.service.DriveSkillService"/>
+    <dubbo:reference id="titleCommentService" interface="com.biyouche.service.TitleCommentService"/>
+    <dubbo:reference id="subjectIndexService" interface="com.biyouche.service.SubjectIndexService"/>
+    <dubbo:reference id="driveDataOneService" interface="com.biyouche.service.DriveDataOneService"/>
+    <dubbo:reference id="findService" interface="com.biyouche.service.FindService"/>
+    <dubbo:reference id="findInfoService" interface="com.biyouche.service.FindInfoService"/>
+	<dubbo:reference id="findActivityService" interface="com.biyouche.service.FindActivityService"/>
+	<dubbo:reference id="findCommunityService" interface="com.biyouche.service.FindCommunityService"/>
+</beans>

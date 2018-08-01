@@ -1,0 +1,83 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.core</groupId>
+    <artifactId>core-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <relativePath>../../pom.xml</relativePath>
+  </parent>
+  <artifactId>find-provider</artifactId>
+  <packaging>jar</packaging>
+  <name>${project.artifactId}</name>
+  <description>${project.artifactId}</description>
+  
+  <properties>
+		<skip_maven_deploy>false</skip_maven_deploy>
+  </properties>
+  
+  <dependencies>
+        <dependency>
+            <groupId>com.core</groupId>
+            <artifactId>find-api</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+        
+  </dependencies>
+  
+  <build>
+        <plugins>
+
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.5.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>copy</goal>
+                        </goals>
+                        <configuration>
+                            <artifactItems>
+                            	<artifactItem>
+                                    <groupId>com.core</groupId>
+                                    <artifactId>core-framework</artifactId>
+                                    <version>${project.parent.version}</version>
+                                </artifactItem>
+                                <artifactItem>
+                                    <groupId>com.core</groupId>
+                                    <artifactId>find-api</artifactId>
+                                    <version>${project.parent.version}</version>
+                                </artifactItem>
+                                <artifactItem>
+                                    <groupId>com.core</groupId>
+                                    <artifactId>find-provider</artifactId>
+                                    <version>${project.parent.version}</version>
+                                </artifactItem>
+                            </artifactItems>
+                            <outputDirectory>${project.build.directory}/lib</outputDirectory>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+            </plugin>
+
+        </plugins>
+    </build>
+  
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://code.alibabatech.com/schema/dubbo
+	http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!-- 提供方应用信息，用于计算依赖关系 -->
+    <dubbo:application name="${dubbo.application.name}"/>
+
+    <!-- 注册中心暴露服务地址 -->
+    <dubbo:registry protocol="${dubbo.registry.protocol}" address="${dubbo.registry.address}"/>
+
+    <!-- 暴露服务 -->
+    <dubbo:protocol name="${dubbo.protocol.name}" port="${dubbo.protocol.port}"/>
+
+    <dubbo:service interface="com.biyouche.service.ApplyService"
+                   ref="applyService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.CoachService"
+                   ref="coachService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.ClassService"
+                   ref="classService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.NeedsService"
+                   ref="needsService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.SchoolService"
+                   ref="schoolService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.IntroductionService"
+                   ref="introductionService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.IndexService"
+                   ref="indexService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.PlaceService"
+                   ref="placeService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.LoanService"
+                   ref="loanService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.PraiseService"
+                   ref="praiseService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.InsuranceOrderService"
+                   ref="insuranceOrderService" retries="0" timeout="6000"/>
+    <dubbo:service interface="com.biyouche.service.VIPInsuranceService"
+                   ref="vipInsuranceService" retries="0" timeout="6000"/>
+</beans>
